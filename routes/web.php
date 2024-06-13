@@ -20,7 +20,7 @@ use App\Http\Controllers\ContactController;
 
 Route::get('/', 'PageController@index')->name('home');
 Route::get('/about-us', 'PageController@about')->name('about-us');
-Route::get('/services', 'PageController@services')->name('services');
+Route::get('/recruiting', 'PageController@recruiting')->name('recruiting');
 Route::get('/careers', 'PageController@careers')->name('careers');
 Route::get('/contact', 'PageController@contact')->name('contact');
 Route::post('/application', [ApplicationController::class, 'ApplicationForm'])->name('application.send');

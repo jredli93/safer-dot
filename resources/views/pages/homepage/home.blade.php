@@ -8,6 +8,10 @@
     @include('pages.homepage.cta')
 @endsection
 
+@section('partners')
+    @include('pages.homepage.partners')
+@endsection
+
 @section('services')
     @include('pages.homepage.services')
 @endsection

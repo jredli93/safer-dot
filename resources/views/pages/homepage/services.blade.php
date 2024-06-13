@@ -1,16 +1,13 @@
 <section class="services-wrap">
-        <div class="services">
-                <h1 class="services-title">Services</h1>
-                <hr class="underline">
-                <p class="services-text">TRUCKLOAD-EXPEDITED-DEDICATED</p>
-                <p class="services-content">Excellence in service is our mission and our comitment to you from
-                        first contact with us to given task completition.
-                        Our resources, our advanced fleet, our team of drivers and industry
-                        proffesionals are working around the clock to get what needs to be done
-                        for you.<br/>
-                        <b>On time and ahead of time- because west is the best!</b></p>
-                <a href="{{ route('services') }}" class="btn btn--xlrg btn--gradient">
-                        <span class="btn__text btn-text">Find out more</span>
-                </a>
+    <div class="services">
+        <div class="mx-auto mt-20 sm:mb-10 mb-16">
+            <h1 class="mb-4 text-3xl text-center font-extrabold text-red-600 dark:text-slate-700 md:text-5xl lg:text-6xl"><span class="text-transparent bg-clip-text bg-gradient-to-r to-red-700 from-rose-600">Explore our </span>Services</h1>
+            <p class="text-lg text-center font-normal text-slate-800 lg:text-xl dark:text-slate-800">Here at Flowbite we focus on markets where technology, innovation, and capital can unlock long-term value and drive we focus on markets where technology, innovation, and capital can unlock long-term value and drive we focus on markets where technology, innovation, and capital can unlock long-term value and drive economic growth.</p>
         </div>
+        <div class="btn-wrap mx-auto mt-6">
+            <a href="{{ route('recruiting') }}" class="transition-colors duration-300 ease-in-ou hover:no-underline hover:bg-white font-semibold hover:text-slate-900 py-4 px-6 border-2 border-slate-700 text-slate-700 rounded-lg">
+                Start your trucking company now
+            </a>
+        </div>
+    </div>
 </section>

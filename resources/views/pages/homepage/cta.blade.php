@@ -1,38 +1,9 @@
-<section class="cta-wrap" id="cta-content">
-    <div class="cta-content">
-        <div class="cta-left">
-            <h1 class="cta-title" data-aos="fade-up">Our Story</h1>
-            <hr class="underline" data-aos="fade-up">
-            <p class="cta-subtitle" data-aos="fade-up">A Dream Come True</p>
-            <p class="cta-text" data-aos="fade-up">What started as a single truck operation has grown through years into excellence in
-            service and client dedication we have today. At its journey and growth West Express
-            became a freight transportation company with unlimited ability and excellence visible in
-            every segment. Specializing in truckload transportation, expedited shipments and client
-            dedication West Express superior quality of services will satisfy all your business needs.
-            Our extensive experience is a guarantee to you - no task is undoable, no transport
-            mission made impossible. We are West Express, and West is the best!</p>
-            <a data-aos="fade-up" href="{{ route('about-us') }}" class="btn cta-left-btn btn--gradient btn--xlrg">
-                <span class="btn__text">About Us</span>
-            </a>
-        </div>
-        <div class="cta-right">
-            {{-- <i class="far fa-play-circle play-btn"></i> --}}
-            <div class="cta-right-container">
-                {{-- <div class="cta-right-stats">
-                    <div class="stat">
-                        <span class="stat-number">8000+</span>
-                        <span class="stat-text">Drivers</span>
-                    </div>
-                    <div class="stat">
-                        <span class="stat-number">24/7</span>
-                        <span class="stat-text">Support</span>
-                    </div>
-                    <div class="stat">
-                        <span class="stat-number">200+</span>
-                        <span class="stat-text">Employees</span>
-                    </div>
-                </div> --}}
-            </div>
-        </div>
+<section class="bg-gradient-to-br from-purple-500 to-pink-500 py-16 md:py-32">
+    <div class="container mx-auto px-4 md:px-8 text-center">
+        <h1 class="text-white font-bold text-4xl md:text-6xl leading-tight mb-6">Welcome to our <br>Colorful World</h1>
+        <p class="text-white text-lg md:text-2xl mb-12">Experience the magic of colors with our unique products and
+            services.</p>
+        <a href="#" class="bg-white text-purple-500 font-bold py-2 px-8 rounded-full hover:bg-purple-500 hover:text-white transition duration-200">Shop
+            Now</a>
     </div>
 </section>

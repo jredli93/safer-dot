@@ -1,33 +1,13 @@
 <section class="header-contact">
     @include('utils.menu')
     @if (session('success'))
-        <div class="alert success-alert">
-            <h3 class="alert-text"> {{ session('success') }}</h3>
-            <a class="close">&times;</a>
-        </div>
-    @endif
-    <h1 class="contact-title">Contact Us</h1>
-    <hr class="underline center">
-    <span class="contact-overtitle">Send us a message</span>
-
-    <div class="banner-contact" data-aos="fade-up">
-        <div data-aos="fade-up" data-aos-delay="50" class="banner-single">
-            <i class="fa fa-3x fa-phone"></i>
-            <h2 class="banner-single-title">Office</h2>
-            <span class="banner-single-text">972-787-0047</span>
-        </div>
-        <div data-aos="fade-up" data-aos-delay="100" class="banner-single">
-            <i class="fa fa-3x fa-map-marker-alt"></i>
-            <h2 class="banner-single-title">Address</h2>
-            <span class="banner-single-text">16901 Dallas Parkway
-                Suite 116
-                Addison, TX 75001</span>
-        </div>
-        <div data-aos="fade-up" data-aos-delay="200" class="banner-single">
-            <i class="fa fa-3x fa-at"></i>
-            <h2 class="banner-single-title">E-mail</h2>
-            <span class="banner-single-text">info@westexpressllc.com</span>
-        </div>
+    <div class="alert success-alert">
+        <h3 class="alert-text"> {{ session('success') }}</h3>
+        <a class="close">&times;</a>
     </div>
-
+    @endif
+    <!-- <div class="mx-auto mt-20 sm:mb-10 mb-16">
+        <h1 class="mb-4 text-3xl text-center font-extrabold text-red-600 dark:text-slate-700 md:text-5xl lg:text-6xl"><span class="text-transparent bg-clip-text bg-gradient-to-r to-red-700 from-rose-600">Contact </span>Us</h1>
+        <p class="text-lg text-center font-normal text-slate-800 lg:text-xl dark:text-slate-800">Here at Flowbite we focus on markets where technology, innovation, and capital can unlock long-term value and drive we focus on markets where technology, innovation, and capital can unlock long-term value and drive we focus on markets where technology, innovation, and capital can unlock long-term value and drive economic growth.</p>
+    </div> -->
 </section>

@@ -2,7 +2,7 @@
     height: 100vh;
 
     .vegas-slide {
-        filter: brightness(95%) grayscale(5%);
+        filter: brightness(35%) grayscale(5%);
 
         @include mobile() {
             .vegas-video {
@@ -14,39 +14,40 @@
     @include nav;
 
     .cta {
-        height: 60vh;
+        height: 80vh;
         display: flex;
-        align-items: center;
+        align-items: flex-start;
         justify-content: center;
         flex-direction: column;
+        @include center-content();
 
         @include mobile {
             height: 90vh;
         }
 
         .cta-heading {
-            font-weight: 300;
-            font-size: 5.7rem;
-            line-height: 1rem;
+            font-weight: 500;
+            margin-top: 14rem;
+            font-size: 4rem;
             font-family: $styled-text;
             text-shadow: 0 0 10px black;
 
-            @include mobile() {
-                font-size: 4.2rem;
-                margin: 1.5rem 0;
+            @include tablet() {
+                font-size: 3.4rem;
+                margin-top: 6rem;
             }
         }
 
         .cta-subheading {
-            font-weight: 100;
-            font-size: 3rem;
-            line-height: 6rem;
+            font-weight: 300;
+            font-size: 2.5rem;
             text-shadow: 0 0 10px black;
+            margin: 3rem 0;
 
             @include mobile() {
-                font-size: 2.2rem;
-                text-align: center;
-                line-height: 4rem;
+                font-size: 1.5rem;
+                text-align: left;
+                line-height: 3rem;
             }
         }
 
