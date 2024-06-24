@@ -123,7 +123,7 @@
             </div>
 
             <div class="items-center gap-8 grid lg:grid-cols-2 xl:gap-16">
-                <img class="w-full order-last mb-4 rounded-lg lg:mb-0 hue-rotate-[120deg] lg:flex" src="{{ asset('/assets/images/feature-2.png') }}" alt="feature image 2">
+                <img class="w-full order-last lg:order-first  mb-4 rounded-lg lg:mb-0 hue-rotate-[120deg] lg:flex" src="{{ asset('/assets/images/feature-2.png') }}" alt="feature image 2">
                 <div class="text-gray-500 sm:text-lg dark:text-gray-400">
                     <h2 class="mb-4 text-3xl font-extrabold tracking-tight text-slate-700">We invest in the world’s potential</h2>
                     <p class="mb-8 text-slate-700 lg:text-xl">Deliver great service experiences fast - without the complexity of traditional ITSM solutions. Accelerate critical development work, eliminate toil, and deploy changes with ease.</p>
