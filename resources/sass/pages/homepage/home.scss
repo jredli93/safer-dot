@@ -33,7 +33,12 @@
             text-shadow: 0 0 10px black;
 
             @include tablet() {
-                font-size: 3.4rem;
+                font-size: 2.5rem;
+                // margin-top: 6rem;
+            }
+
+            @include mobile() {
+                font-size: 1.7rem;
                 margin-top: 6rem;
             }
         }
@@ -44,10 +49,31 @@
             text-shadow: 0 0 10px black;
             margin: 3rem 0;
 
-            @include mobile() {
+            @include tablet() {
                 font-size: 1.5rem;
+            }
+
+            @include mobile() {
+                font-size: 1rem;
                 text-align: left;
-                line-height: 3rem;
+                line-height: 2rem;
+                margin: 1rem 0;
+            }
+        }
+
+        .hp-buttons {
+            @include tablet() {
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: center;
+
+                a {
+                    margin-top: 0.5rem;
+                }
+            }
+
+            @include mobile() {
+                font-size: 1rem;
             }
         }
 

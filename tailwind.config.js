@@ -8,7 +8,10 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'recruit': "url('/assets/images/recruit1.jpg')",
+        'services': "url('/assets/images/abt3.jpeg')",
+        'recruit': "url('/assets/images/recruiting2.jpg')",
+        'recruit1': "url('/assets/images/recruiting3.jpg')",
+        'recruit2': "url('/assets/images/recruiting4.jpg')",
       }
     }
   },

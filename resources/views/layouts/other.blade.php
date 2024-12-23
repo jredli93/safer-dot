@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width,  maximum-scale=1, minimum-scale=1, initial-scale=1">
+    <meta name="viewport" content="width=device-width,  maximum-scale=1, minimum-scale=1, initial-scale=1 upgrade-insecure-requests">
 
     <!-- CSRF Token -->
     <meta name="csrf-token" id="csrf-token" content="{{ csrf_token() }}">
@@ -18,6 +18,8 @@
 
     <link rel="stylesheet" type="text/css" href="{{ asset('css/popular/flaticon.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('css/business/flaticon.css') }}">
+    <!-- <link rel="stylesheet" type="text/css" href="{{ secure_asset('css/popular/flaticon.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ secure_asset('css/business/flaticon.css') }}"> -->
     <!-- MapBox -->
     <script src='https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.js'></script>
     <link href='https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.css' rel='stylesheet' />
@@ -28,6 +30,10 @@
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
     <link href="{{ asset('css/aos.css') }}" rel="stylesheet">
     <link href="{{ asset('css/lity.css') }}" rel="stylesheet">
+    <link href="{{ secure_asset('css/main.css') }}" rel="stylesheet">
+    <link href="{{ secure_asset('css/app.css') }}" rel="stylesheet">
+    <link href="{{ secure_asset('css/aos.css') }}" rel="stylesheet">
+    <link href="{{ secure_asset('css/lity.css') }}" rel="stylesheet">
     <link rel="shortcut icon" type="image/jpg" href="/assets/images/safer-logo.png" />
 </head>
 
@@ -42,7 +48,8 @@
         <nav>
             <ul>
                 <li><a href="{{ URL::route('home') }}">Home</a></li>
-                <li><a href="{{ URL::route('about-us') }}">Partners</a></li>
+                <!-- <li><a href="{{ URL::route('about-us') }}">Partners</a></li> -->
+                <li><a href="{{ URL::route('services') }}">Services</a></li>
                 <li><a href="{{ URL::route('recruiting') }}">Recruiting</a></li>
                 <li><a href="{{ URL::route('about-us') }}">About us</a></li>
                 <li><a href="{{ URL::route('contact') }}">Contact</a></li>
@@ -65,6 +72,11 @@
     <script src="{{ asset('js/main.js') }}" defer></script>
     <script src="{{ asset('js/mobile-menu.js') }}" defer></script>
     <script src="{{ asset('js/map.js') }}" defer></script>
+    <script src="{{ secure_asset('js/aos.js') }}" defer></script>
+    <script src="{{ secure_asset('js/lity.js') }}" defer></script>
+    <script src="{{ secure_asset('js/main.js') }}" defer></script>
+    <script src="{{ secure_asset('js/mobile-menu.js') }}" defer></script>
+    <script src="{{ secure_asset('js/map.js') }}" defer></script>
 </body>
 
 </html>

@@ -89,22 +89,22 @@
             background: $darkBlue;
             height: 100%;
             padding: 0 3.5rem 3.5rem 3.5rem;
-            
+
             @include tablet() {
                 width: 100%;
                 max-width: none;
             }
 
             .main-carousel {
-                height: 350px;
+                // height: 350px;
 
                 .flicity-viewport {
                     height: 100%;
                 }
 
                 .carousel-cell {
-                    width: 100%;
-                    height: 200px;
+                    // width: 100%;
+                    // height: 200px;
                     margin-right: 10px;
 
                     @include mobile {
@@ -127,40 +127,16 @@
                             margin-top: 1.5rem;
                         }
                     }
-
-                    .ai1 {
-                        // background: url('http://templatekit.krakenbox.net/blankink/wp-content/uploads/sites/4/elementor/thumbs/s13-owjxjw2uh7q52vcn3cvlt225b29bad76ox6rw2bzw0.jpg') top/cover;
-                    }
-
-                    .testimonials-info {
-                        display: block;
-                        color: $dark-black;
-                        display: flex;
-                        justify-content: center;
-                        align-items: center;
-                        height: 100%;
-                    }
-
-                    .testimonials-name {
-                        text-align: center;
-                        font-family: $styled-text;
-                        text-shadow: 0px 0px 5px black;
-                    }
                 }
 
-                /* position dots up a bit */
-                .flickity-page-dots {
-                    bottom: 0px;
-                }
-
-                /* dots are lines */
-                .flickity-page-dots .dot {
-                    height: 4px;
-                    width: 40px;
-                    margin: 0;
-                    background: #c25638;
-                    border-radius: 0;
-                }
+                // /* dots are lines */
+                // .flickity-page-dots .dot {
+                //     height: 4px;
+                //     width: 40px;
+                //     margin: 0;
+                //     background: #c25638;
+                //     border-radius: 0;
+                // }
             }
 
 

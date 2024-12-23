@@ -10,8 +10,10 @@
 
             <!-- <h1 class="text-3xl md:text-5xl font-bold">Get In Touch</h1> -->
             <div class="w-11/12 xl:w-2/3 lg:w-2/3 md:w-2/3 mt-20 sm:mb-10 mb-16">
-                <h1 class="mb-4 text-3xl text-left font-extrabold text-red-600 dark:text-slate-700 md:text-5xl lg:text-6xl">Partners<span class="text-transparent bg-clip-text bg-gradient-to-r to-red-700 from-rose-600"> we work with</span></h1>
-                <p class="text-lg text-left font-normal text-gray-500 lg:text-xl dark:text-gray-400">Here at Flowbite we focus on markets where technology, innovation, and capital can unlock long-term value and drive economic growth.</p>
+                <h1 class="mb-4 text-3xl text-left font-extrabold text-red-600 dark:text-slate-700 md:text-5xl lg:text-6xl">CONTACT<span class="text-transparent bg-clip-text bg-gradient-to-r to-red-700 from-rose-600"> US</span></h1>
+                <p class="text-lg text-left font-normal text-gray-500 lg:text-xl dark:text-gray-400">We’d love to hear from you! Whether you have questions, need assistance, or want to explore
+                    how SaferDOT Solutions can help your trucking business thrive, feel free to reach out. Just fill out
+                    the form below, and our team will get back to you as soon as possible.</p>
             </div>
         </div>
     </div>
@@ -27,7 +29,7 @@
                     <!-- {/* form top part containing mail icon and heading  */} -->
                     <div class="flex flex-col md:flex-row justify-around items-start md:items-center pt-8 p-4">
                         <!-- {/* heading  */} -->
-                        <h2 class="text-2xl md:text-3xl font-semibold">Send Us A Message</h2>
+                        <h2 class="text-2xl md:text-3xl font-semibold">Your Journey Begins Here</h2>
 
                         <!-- {/* mail svg icon  */} -->
                         <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-mail-forward" width="33" height="33" viewBox="0 0 24 24" stroke-width="1.5" stroke="#fff" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -44,9 +46,9 @@
                         <!-- {/* name input  */} -->
                         <div class="flex flex-col gap-1">
                             <label class="font-semibold">
-                                Name <span class="text-red-500">&#42;</span>
+                                Name/ Company <span class="text-red-500">&#42;</span>
                             </label>
-                            <input class="border-[1px] border-white bg-gray-800 p-2 rounded-md" placeholder="Enter Your Name" required name="name" type="text" />
+                            <input class="border-[1px] border-white bg-gray-800 p-2 rounded-md" placeholder="Enter Your Name/Company" required name="name" type="text" />
                         </div>
 
                         <!-- {/* email input  */} -->
@@ -110,11 +112,11 @@
                         <path d="M16 22l5 -5" />
                         <path d="M21 21.5v-4.5h-4.5" />
                     </svg>
-                    <span>yourmail@support.com</span>
+                    <span>info@saferdotsolutions.com</span>
                 </div>
 
                 <!-- {/* social icons div  */} -->
-                <div class="flex justify-center md:justify-start items-center gap-4">
+                <!-- <div class="flex justify-center md:justify-center items-center gap-4">
                     <a title="youtube" href="#">
                         <img class="h-8 w-8 invert" src="https://www.svgrepo.com/show/521936/youtube.svg" /></a>
                     <a title="linkedin" href="#">
@@ -123,10 +125,14 @@
                         <img class="h-8 w-8 invert" src="https://www.svgrepo.com/show/521711/instagram.svg" /></a>
                     <a title="github" href="#">
                         <img class="h-8 w-8 invert" src="https://www.svgrepo.com/show/512317/github-142.svg" /></a>
-                </div>
-                <h1 class="text-center"> Follow me on github <a href="https://github.com/Darkstar69">Darkstar69</a> </h1>
+                </div> -->
+                <!-- <h1 class="text-center"> Follow me on github <a href="https://github.com/Darkstar69">Darkstar69</a> </h1> -->
             </div>
         </div>
 
+
+
     </div>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d190255.8460334488!2d-87.73196395!3d41.83373295!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2c3cd0f4cbed%3A0xafe0a6ad09c0c000!2sChicago%2C%20IL%2C%20USA!5e0!3m2!1sen!2srs!4v1727273306483!5m2!1sen!2srs" width="1920" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d190255.8460334488!2d-87.73196395!3d41.83373295!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2c3cd0f4cbed%3A0xafe0a6ad09c0c000!2sChicago%2C%20IL%2C%20USA!5e0!3m2!1sen!2srs!4v1727273306483!5m2!1sen!2srs" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
 </div>

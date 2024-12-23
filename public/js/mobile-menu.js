@@ -10,14 +10,19 @@ $('.close-button').on('click', function() {
 });
 
 var myNav = document.getElementById('navigation-mobile');
-window.onscroll = function () { 
+var navBars = document.getElementById('navigation-bars');
+window.onscroll = function () {
     "use strict";
     if (document.body.scrollTop >= 100 || document.documentElement.scrollTop >= 100 ) {
         myNav.classList.add("nav-colored");
         myNav.classList.remove("nav-transparent");
-    } 
+        navBars.classList.add("nav-transparent");
+        navBars.classList.remove("nav-white");
+    }
     else {
         myNav.classList.add("nav-transparent");
         myNav.classList.remove("nav-colored");
+        navBars.classList.add("nav-white");
+        navBars.classList.remove("nav-transparent");
     }
 };

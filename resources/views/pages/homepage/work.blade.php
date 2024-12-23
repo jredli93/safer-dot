@@ -1,5 +1,5 @@
 <section class="work-wrap bg-slate-100">
-    <div class="work-content">
+    <div class="work-content w-[90%] sm:w-auto">
 
         <div id="product1" style="background:#fff" class="modalbox about-work-modal lity-hide">
             <div class="bg-effect"></div>
@@ -441,45 +441,83 @@
         </div>
 
         <div class="mx-auto mt-20 sm:mb-10 mb-16">
-            <h1 class="mb-4 text-3xl text-center font-extrabold text-red-600 dark:text-slate-700 md:text-5xl lg:text-6xl">Our<span class="text-transparent bg-clip-text bg-gradient-to-r to-red-700 from-rose-600"> services</span></h1>
-            <p class="text-lg text-center font-normal text-gray-500 lg:text-xl dark:text-gray-400">Here at Flowbite we focus on markets where technology, innovation, and capital can unlock long-term value and drive economic growth.</p>
+            <h1 class="mb-4 text-3xl text-center font-extrabold text-red-600 dark:text-slate-700 md:text-5xl lg:text-6xl">Services<span class="text-transparent bg-clip-text bg-gradient-to-r to-red-700 from-rose-600"></span></h1>
+            <!-- <p class="text-lg text-center font-normal text-gray-500 lg:text-xl dark:text-gray-400">Here at Flowbite we focus on markets where technology, innovation, and capital can unlock long-term value and drive economic growth.</p> -->
         </div>
 
-        <div class="work-cards">
+        <div class="grid grid-cols-1 gap-4 md:grid-cols-2 xl:grid-cols-2 pt-10 pb-10 lg:pb-20" style="cursor: auto;">
 
-            <div class="work-card rounded-lg">
-                <!-- <div class="bg-effect-driver"></div> -->
-                <h1 class="card-title">Service one</h1>
+            <div class="p-6 rounded-lg word-card-wrap">
+                <div class="mb-5">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="40px" height="40px" viewBox="0 0 16 16" fill="none">
+                        <path fill="#c83131" d="M10 13L9.00001 12L11.2929 9.70712L8.50001 6.91423L5.50001 9.91423L0.292908 4.70712L1.70712 3.29291L5.50001 7.0858L8.50001 4.0858L12.7071 8.29291L15 6.00001L16 7.00001L16 13H10Z" fill="#000000" />
+                    </svg>
+                </div>
                 <ul>
-                    <li><a href="#">Item 1<a></li>
-                    <li><a href="#">Item 1<a></li>
-                    <li><a href="#">Item 1<a></li>
-                    <li><a href="#">Item 1<a></li>
-                    <li><a href="#">Item 1<a></li>
+                    <li><a href="#">IRP Services</a></li>
+                    <li><a href="#">IRP (Registration Renewal, Addition, Transfer)</a></li>
+                    <li><a href="#">IRP – New Account Opening</a></li>
+                    <li><a href="#">IRP (Illinois only) 45-Day Temporary Registration</a></li>
+                    <li><a href="#">Trailer Registration</a></li>
+                    <li><a href="#">Truck and Trailer Title Transfer</a></li>
+                    <li><a href="#">Highway Use Tax (Form 2290)</a></li>
                 </ul>
             </div>
-            <div class="work-card rounded-lg">
-                <!-- <div class="bg-effect-driver"></div> -->
-                <h1 class="card-title">Service one</h1>
+
+            <div class="p-6 rounded-lg word-card-wrap">
+                <div class="mb-5">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="40px" height="40px" viewBox="0 0 16 16" fill="none">
+                        <path fill="#c83131" d="M10 13L9.00001 12L11.2929 9.70712L8.50001 6.91423L5.50001 9.91423L0.292908 4.70712L1.70712 3.29291L5.50001 7.0858L8.50001 4.0858L12.7071 8.29291L15 6.00001L16 7.00001L16 13H10Z" fill="#000000" />
+                    </svg>
+                </div>
                 <ul>
-                    <li><a href="#">Item 1<a></li>
-                    <li><a href="#">Item 1<a></li>
-                    <li><a href="#">Item 1<a></li>
-                    <li><a href="#">Item 1<a></li>
-                    <li><a href="#">Item 1<a></li>
+                    <li><a href="#">IFTA and Permits</a></li>
+                    <li><a href="#">IFTA – Fuel Tax Account Opening and Renewal</a></li>
+                    <li><a href="#">Quarterly Tax Return Filings – IFTA, KYU, NYHUT, NM, CT, OR</a></li>
+                    <li><a href="#">KY, NM, NY, OR, CT Permits</a></li>
+                    <li><a href="#">SCAC Registration and Renewal</a></li>
+                    <li><a href="#">UCR Registration and Renewal</a></li>
+                    <li><a href="#">Canada Permits and Renewal, PARS/PAPS</a></li>
+                    <li><a href="#">Drug and Alcohol Consortium</a></li>
+                    <li><a href="#">Drug and Alcohol Clearinghouse</a></li>
                 </ul>
             </div>
-            <div class="work-card rounded-lg">
-                <!-- <div class="bg-effect-driver"></div> -->
-                <h1 class="card-title">Service one</h1>
+
+            <div class="p-6 rounded-lg word-card-wrap">
+                <div class="mb-5">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="40px" height="40px" viewBox="0 0 16 16" fill="none">
+                        <path fill="#c83131" d="M10 13L9.00001 12L11.2929 9.70712L8.50001 6.91423L5.50001 9.91423L0.292908 4.70712L1.70712 3.29291L5.50001 7.0858L8.50001 4.0858L12.7071 8.29291L15 6.00001L16 7.00001L16 13H10Z" fill="#000000" />
+                    </svg>
+                </div>
                 <ul>
-                    <li><a href="#">Item 1<a></li>
-                    <li><a href="#">Item 1<a></li>
-                    <li><a href="#">Item 1<a></li>
-                    <li><a href="#">Item 1<a></li>
-                    <li><a href="#">Item 1<a></li>
+                    <li><a href="#">DOT and Authority Registrations</a></li>
+                    <li><a href="#">US DOT Number Registration and Updates</a></li>
+                    <li><a href="#">FMCSA Motor Carrier Authority Registration (MC #)</a></li>
+                    <li><a href="#">Broker Authority Registration</a></li>
+                    <li><a href="#">Intrastate Authority Registration</a></li>
+                    <li><a href="#">Corporations (LLC/INC) and Sole Proprietorships</a></li>
+                    <li><a href="#">EIN (Employer Identification Number – Tax ID)</a></li>
+                    <li><a href="#">BOI Reporting</a></li>
+                    <li><a href="#">Notary Public (Illinois)</a></li>
+                </ul>
+            </div>
+
+            <div class="p-6 rounded-lg word-card-wrap">
+                <div class="mb-5">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="40px" height="40px" viewBox="0 0 16 16" fill="none">
+                        <path fill="#c83131" d="M10 13L9.00001 12L11.2929 9.70712L8.50001 6.91423L5.50001 9.91423L0.292908 4.70712L1.70712 3.29291L5.50001 7.0858L8.50001 4.0858L12.7071 8.29291L15 6.00001L16 7.00001L16 13H10Z" fill="#000000" />
+                    </svg>
+                </div>
+                <ul>
+                    <li><a href="#">Additional Services</a></li>
+                    <li><a href="#">Recruiting</a></li>
+                    <li><a href="#">Consulting Services</a></li>
+                    <li><a href="#">DOT Safety Audits</a></li>
+                    <li><a href="#">Insurance Claims Assistance</a></li>
                 </ul>
             </div>
         </div>
+
+
     </div>
 </section>

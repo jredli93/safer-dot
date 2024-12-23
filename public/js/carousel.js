@@ -1,11 +1,7 @@
 $('.main-carousel').flickity({
-    cellAlign: 'left',
+    // cellAlign: 'left',
     contain: true,
-    autoPlay: 7000,
+    prevNextButtons: false,
+    autoPlay: 3000,
     pageDots: true,
-    setGallerySize: false,
-    wrapAround: true,
-    freeScroll: false,
-    imagesLoaded: true,
-    prevNextButtons: false
 });

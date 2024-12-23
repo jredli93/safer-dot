@@ -25,6 +25,10 @@ class PageController extends Controller
         return view('pages.recruiting.index');
     }
 
+    public function services() {
+        return view('pages.services.index');
+    }
+
     public function careers() {
         return view('pages.careers.index');
     }
