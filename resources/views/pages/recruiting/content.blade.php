@@ -15,11 +15,11 @@
                         Start your trucking company now
                     </a>
                 </div> -->
-                <div class="btn-wrap hp-buttons flex flex-col">
+                <div class="btn-wrap hp-buttons flex flex-col md:flex-row">
                     <a href="#test" data-lity class="transition-colors duration-300 ease-in-ou hover:no-underline hover:bg-white font-semibold hover:text-slate-900 py-4 px-6 border-2 border-white rounded-lg">
                         GET YOUR FMCSA OPERATING AUTHORITY NOW
                     </a>
-                    <a href="#inline" data-lity class="mt-2 sm:mt-auto transition-colors duration-300 w-full sm:w-auto md md:ml-2 ease-in-ou hover:no-underline hover:bg-white font-semibold hover:text-slate-900 py-4 px-6 border-2 border-white rounded-lg">
+                    <a href="#inline" data-lity class="mt-2 md:mt-10 transition-colors duration-300 w-full sm:w-auto md:ml-2 ease-in-ou hover:no-underline hover:bg-white font-semibold hover:text-slate-900 py-4 px-6 border-2 border-white rounded-lg">
                         REQUEST CONSULTATION
                     </a>
                 </div>

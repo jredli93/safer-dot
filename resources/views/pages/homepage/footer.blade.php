@@ -4,7 +4,7 @@
     </div>
 
     <p class="mx-auto font-bold mt-6 text-center leading-relaxed text-gray-500">
-        SaferDOT Solutions | Transportation Services Reinvented | Phone:847-957-4799 | Email: info@saferdotsolutions.com
+        SaferDOT Solutions | Transportation Services Reinvented | Phone: 847-957-4799 | Email: info@saferdotsolutions.com
     </p>
     <div class="mt-5 w-full h-auto py-2 flex items-center justify-center gap-2 flex-wrap">
         <a target=”_blank” href="https://www.facebook.com/profile.php?id=61557093316623" class="p-2 rounded-lg flex items-center border border-gray-300 justify-center transition-all duration-500 hover:border-gray-100 hover:bg-gray-100">

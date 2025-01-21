@@ -154,7 +154,7 @@
                     </div>
                 </div>
             </div>
-            <div class="carousel-cell">
+            <!-- <div class="carousel-cell">
 
                 <div class="w-full px-3 mb-6">
                     <div class="p-8 bg-white shadow rounded">
@@ -167,7 +167,7 @@
                         <p class="leading-loose text-gray-800">"We’ve been working with SaferDOT Solutions for quite some time, and the difference is incredible! Their team took the time to understand our unique challenges and provided tailored solutions that fit our needs perfectly. From navigating safety regulations to streamlining our recruiting process, they’ve made everything so much easier. The level of expertise and customer service is outstanding. Our compliance rates have never been better, and we feel confident moving forward. Highly recommended for any trucking business looking to improve!"</p>
                     </div>
                 </div>
-            </div>
+            </div> -->
             ...
         </div>
     </div>

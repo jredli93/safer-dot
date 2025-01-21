@@ -8,9 +8,9 @@
     @endif
     <div class="cta">
         <h1 class="cta-heading">TRUCKING PERMIT, RECRUITING, AND CONSULTING SERVICES</h1>
-        <h1 class="cta-subheading text-9xl">Your Ally in Managing Safety Compliance, Recruiting Efforts, and Handling All Operational
-            Management Tasks within Your Trucking Business. Your Partner in the Transportation Industry&#39;s
-            Complex Permit and License System.</h1>
+        <h1 class="cta-subheading text-9xl">Your ally in managing safety compliance, recruiting efforts, and handling all operational
+            management tasks within your trucking business. Your partner in the transportation industry&#39;s
+            complex permit and license system.</h1>
         <div class="btn-wrap hp-buttons">
             <a href="#test" data-lity class="transition-colors duration-300 ease-in-ou hover:no-underline hover:bg-white font-semibold hover:text-slate-900 py-4 px-6 border-2 border-white rounded-lg">
                 GET YOUR FMCSA OPERATING AUTHORITY NOW
@@ -118,10 +118,10 @@
         <div class="field h-[50px]">
             <div class="mouse"></div>
             <div class="scroll"></div> -->
-            <!-- <a href="#cta-content">
+    <!-- <a href="#cta-content">
                 <div class="arrow"></div>
             </a> -->
-        <!-- </div>
+    <!-- </div>
     </div> -->
     <!-- <a href="#cta-content" class="scroll">
         <div class="box">
