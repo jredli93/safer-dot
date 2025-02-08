@@ -1,4 +1,4 @@
-    <section class="bg-recruit h-[100vh] services-section dark:bg-gray-900">
+    <section class="bg-recruit h-[100vh] services-section dark:bg-gray-900 bg-left sm:bg-left lg:bg-center">
         <div class="grid max-w-screen-xl px-20 pt-20 pb-8 mx-auto items-center h-full lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 lg:pt-28">
             <div class="mr-auto place-self-center lg:col-span-10">
                 <h1 class="mb-4 text-2xl font-extrabold leading-none tracking-tight md:text-5xl xl:text-6xl dark:text-white">EXCELLENCE IN SERVICES PROVIDED IS OUR MISSION AND A COMITMENT TO
@@ -19,6 +19,69 @@
 
             </div>
         </div>
+    </section>
+
+    <section class="py-8 md:py-16">
+        <div class="container max-w-screen-xl mx-auto px-4">
+            <div class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3">
+                <div class="text-center mb-10 xl:mb-0">
+                    <!-- <div class="flex items-center justify-center">
+                    <div class="w-24 py-9 flex justify-center bg-indigo-50 text-indigo-500 rounded-md mb-5 md:mb-10">
+                        <i data-feather="bar-chart-2"></i>
+                    </div>
+                </div> -->
+
+                    <h2 class="font-semibold text-gray-700 text-xl md:text-3xl mb-5">
+                        Safety Management
+                    </h2>
+
+                    <p class="font-normal text-gray-400 text-sm md:text-lg">
+                        By utilizing SaferDOT Solutions’ services to implement effective safety management practices,
+                        trucking companies can enhance their efficiency in protecting drivers, reduce liability, and
+                        ensure the safe transportation of goods.
+                        <!-- Excepteur sint occaecat cupidatat non <br />
+                    proident, sunt in culpa qui officia deserunt <br />
+                    mollit anim id est laborum. -->
+                    </p>
+                </div>
+
+                <div class="text-center mb-10 md:mb-0">
+                    <!-- <div class="flex items-center justify-center">
+                    <div class="w-24 py-9 flex justify-center bg-indigo-50 text-indigo-500 rounded-md mb-5 md:mb-10">
+                        <i data-feather="dollar-sign"></i>
+                    </div>
+                </div> -->
+
+                    <h2 class="font-semibold text-gray-700 text-xl md:text-3xl mb-5">
+                        Consulting
+                    </h2>
+
+                    <p class="font-normal text-gray-400 text-sm md:text-lg">
+                        Our knowledge and experience are dedicated to helping organizations optimize their operations,
+                        enhance performance, and achieve their strategic objectives.
+                    </p>
+                </div>
+
+                <div class="text-center">
+                    <!-- <div class="flex items-center justify-center">
+                    <div class="w-24 py-9 flex justify-center bg-indigo-50 text-indigo-500 rounded-md mb-5 md:mb-10">
+                        <i data-feather="search"></i>
+                    </div>
+                </div> -->
+
+                    <h2 class="font-semibold text-gray-700 text-xl md:text-3xl mb-5">
+                        Permits and Licensing
+                    </h2>
+
+                    <p class="font-normal text-gray-400 text-sm md:text-lg">
+                        SaferDOT Solutions services help obtaining and maintaining the necessary permits and licenses
+                        that are crucial for trucking companies to operate legally, avoid fines, and ensure the safety of
+                        their drivers and the public.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <!-- container.// -->
     </section>
 
     <div id="test" style="background:#fff" class="lity-hide">
@@ -371,8 +434,8 @@
                 <figcaption class="flex items-center justify-center mt-6 space-x-3">
                     <!-- <img class="w-6 h-6 rounded-full" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/michael-gouch.png" alt="profile picture"> -->
                     <div class="flex items-center divide-x-2 divide-gray-500 dark:divide-gray-700">
-                        <div class="pr-3 font-medium dark:text-white">John D.</div>
-                        <div class="pl-3 text-sm font-light dark:text-gray-400">Fleet Manager at Red Star Expedited</div>
+                        <div class="pr-3 font-medium dark:text-white">John David</div>
+                        <div class="pl-3 text-sm font-light dark:text-gray-400">Fleet Operation Specialist</div>
                     </div>
                 </figcaption>
             </figure>

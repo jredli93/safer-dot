@@ -92,8 +92,8 @@
                     <div class="p-8 bg-white shadow rounded">
                         <div class="flex items-center mb-4">
                             <div class="pl-4">
-                                <p class="text-xl text-gray-600">John D.</p>
-                                <p class="text-red-800">Fleet Manager at XYZ Trucking</p>
+                                <p class="text-xl text-gray-600">John David</p>
+                                <p class="text-red-800">Fleet Operations Specialist</p>
                             </div>
                         </div>
                         <p class=" leading-loose text-gray-800">"I can't say enough good things about SaferDOT Solutions! Their team helped us navigate the complexities of safety compliance and permits with ease. From the moment we partnered with them, we noticed a significant improvement in our operations. The consultants were knowledgeable, responsive, and genuinely invested in our success. Thanks to their expertise, we streamlined our recruiting process and ensured we were fully compliant with all industry regulations. Our efficiency has skyrocketed, and we feel confident in our ability to handle any challenges that come our way. Highly recommend!"</p>
@@ -105,8 +105,8 @@
                     <div class="p-8 bg-white shadow rounded">
                         <div class="flex items-center mb-4">
                             <div class="pl-4">
-                                <p class="text-xl text-gray-600">Alex P.</p>
-                                <p class="text-red-800">Owner of JKL Trucking</p>
+                                <p class="text-xl text-gray-600">Alex Paul</p>
+                                <p class="text-red-800">Trucking Entrepreneur</p>
                             </div>
                         </div>
                         <p class=" leading-loose text-gray-800">"SaferDOT Solutions helped me launch my trucking company and secured all the necessary permits. They expertly handle all safety and permit tasks, allowing me to focus on running my business. I have complete faith and confidence in their services, and I couldn’t be happier with the support they provide!"</p>
@@ -118,8 +118,8 @@
                     <div class="p-8 bg-white shadow rounded">
                         <div class="flex items-center mb-4">
                             <div class="pl-4">
-                                <p class="text-xl text-gray-600">Emily R.</p>
-                                <p class="text-red-800">Owner of ABC Logistics</p>
+                                <p class="text-xl text-gray-600">Emily Majek</p>
+                                <p class="text-red-800">Trucking Entrepreneur</p>
                             </div>
                         </div>
                         <p class="leading-loose text-gray-800">"SaferDOT Solutions has been a game-changer for our trucking company! Their expert team guided us through the complicated permit and licensing process, making it hassle-free. We also benefited from their safety compliance services, which helped us avoid potential pitfalls. The personalized approach and attention to detail were impressive. Thanks to their support, we’ve improved our operational efficiency and reduced costs. I can’t recommend them highly enough!"</p>
@@ -132,8 +132,8 @@
                     <div class="p-8 bg-white shadow rounded">
                         <div class="flex items-center mb-4">
                             <div class="pl-4">
-                                <p class="text-xl text-gray-600">Jordan R.</p>
-                                <p class="text-red-800">Owner of MNO Transport</p>
+                                <p class="text-xl text-gray-600">Jordan Right</p>
+                                <p class="text-red-800">Trucking Company Owner</p>
                             </div>
                         </div>
                         <p class="leading-loose text-gray-800">"SaferDOT Solutions assisted me with driver recruiting and all the permits for my newly opened trucking business. These folks are truly on top of their game! Their expertise made the process smooth and hassle-free, allowing me to focus on getting my business off the ground. Highly recommended!"</p>

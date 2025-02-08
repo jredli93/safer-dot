@@ -36,7 +36,7 @@ $("#header").vegas({
                 loop: false,
                 mute: true,
             },
-            src: "/assets/images/cta.jpeg",
+            src: "/assets/images/bgvideo2.png",
             loop: true,
             muted: true
         },

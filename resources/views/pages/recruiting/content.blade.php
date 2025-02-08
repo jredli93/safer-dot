@@ -19,7 +19,7 @@
                     <a href="#test" data-lity class="transition-colors duration-300 ease-in-ou hover:no-underline hover:bg-white font-semibold hover:text-slate-900 py-4 px-6 border-2 border-white rounded-lg">
                         GET YOUR FMCSA OPERATING AUTHORITY NOW
                     </a>
-                    <a href="#inline" data-lity class="mt-2 md:mt-10 transition-colors duration-300 w-full sm:w-auto md:ml-2 ease-in-ou hover:no-underline hover:bg-white font-semibold hover:text-slate-900 py-4 px-6 border-2 border-white rounded-lg">
+                    <a href="#inline" data-lity class="ml-2 md:ml-0 transition-colors duration-300 ease-in-ou hover:no-underline hover:bg-white font-semibold hover:text-slate-900 py-4 px-6 border-2 border-white rounded-lg">
                         REQUEST CONSULTATION
                     </a>
                 </div>
@@ -163,7 +163,7 @@
             </div> -->
 
             <button class="flex items-center justify-between w-full px-6 py-3 text-sm tracking-wide text-white capitalize transition-colors duration-300 transform bg-red-700 rounded-md hover:bg-blue-400 focus:outline-none focus:ring focus:ring-blue-300 focus:ring-opacity-50">
-                <span>Request free consultation </span>
+                <span>Apply Now </span>
 
                 <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 rtl:-scale-x-100" viewBox="0 0 20 20" fill="currentColor">
                     <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"></path>
@@ -210,7 +210,7 @@
             </div> -->
 
             <button class="flex items-center justify-between w-full px-6 py-3 text-sm tracking-wide text-white capitalize transition-colors duration-300 transform bg-red-700 rounded-md hover:bg-blue-400 focus:outline-none focus:ring focus:ring-blue-300 focus:ring-opacity-50">
-                <span>Request free consultation </span>
+                <span>Get Information </span>
 
                 <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 rtl:-scale-x-100" viewBox="0 0 20 20" fill="currentColor">
                     <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"></path>
@@ -247,7 +247,7 @@
                     </h2>
                     <div class="btn-wrap mt-16">
                         <a href="#trucking" data-lity class="transition-colors duration-300 ease-in-ou hover:no-underline hover:bg-white font-semibold hover:text-slate-900 py-4 px-6 border-2 border-white rounded-lg">
-                            Apply Now
+                            Get Information
                         </a>
                     </div>
                 </div>

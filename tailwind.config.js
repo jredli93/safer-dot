@@ -9,7 +9,7 @@ module.exports = {
     extend: {
       backgroundImage: {
         'services': "url('/assets/images/abt3.jpeg')",
-        'recruit': "url('/assets/images/recruiting2.jpg')",
+        'recruit': "url('/assets/images/recruiting21.jpg')",
         'recruit1': "url('/assets/images/recruiting3.jpg')",
         'recruit2': "url('/assets/images/recruiting4.jpg')",
       }
